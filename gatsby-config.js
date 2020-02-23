@@ -1,5 +1,5 @@
 /**
- * Configure your Gatsby site with this file.
+ * Configure your Gatsby site with this file. Kattos rules.
  *
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
